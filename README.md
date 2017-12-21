@@ -1,6 +1,9 @@
 # PracticeNodeJSAPI
 This is a practice API project written with Node.js and Express.js. This API will be used to assist in testing client-side applications.
 
+Based off this tutorial:
+https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
+
 ## Dependencies
 - npm (v5.3.0)
 - express.js
