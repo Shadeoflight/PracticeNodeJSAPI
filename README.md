@@ -2,10 +2,10 @@
 This is a practice API project written with Node.js and Express.js. This API will be used to assist in testing client-side applications.
 
 ## Dependencies
-npm (v5.3.0)
-express.js
-mongoose.js
-jsonwebtoken.js (Auth0)
+- npm (v5.3.0)
+- express.js
+- mongoose.js
+- jsonwebtoken.js (Auth0)
 
 ## Important Notes
 - This version is currently a prototype that is configured for usage on the Codeanywhere Cloud IDE.
